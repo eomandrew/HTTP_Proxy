@@ -14,7 +14,7 @@ The port number is what the proxy will connect to for incoming connections from 
 1.) Go to your browser (I used firefox), and change the proxy settings to manual, passing in
 "localhost" and whatever port number you would like (make sure it is between 0 –
 65535) to use for the HTTP proxy.  
-To use the proxy server with browser and proxy on separate computers, you will need the IP address on which your proxy server is running. Instead of passing in "localhost" to the proxy, you will need to pass in the IP address of the system using the proxy. 
+To use the proxy server with browser and proxy on separate computers, you will need the IP address on which your proxy server is running. Instead of passing in "localhost" to the proxy, you will need to pass in the IP address of the system using the proxy.  
 2.) Execute the Proxy class using the same port number as its argument  
 3.) The changes made by the proxy will be most noticeable on the website http://pages.cpsc.ucalgary.ca/~sina.keshvadi1/441/web/index.html  
 4.) if everything is working, you should see changes to:
